@@ -9,7 +9,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:background="#3949AB"
+        android:background="#2F3E9E"
         android:alpha="0.9"
         android:layout_height="match_parent">
 
